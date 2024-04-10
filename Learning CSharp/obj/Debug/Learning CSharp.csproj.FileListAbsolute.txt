@@ -1,0 +1,7 @@
+C:\Users\qjrou\Source\Repos\LearningCSharp\Learning CSharp\bin\Debug\Learning CSharp.exe.config
+C:\Users\qjrou\Source\Repos\LearningCSharp\Learning CSharp\bin\Debug\Learning CSharp.exe
+C:\Users\qjrou\Source\Repos\LearningCSharp\Learning CSharp\bin\Debug\Learning CSharp.pdb
+C:\Users\qjrou\Source\Repos\LearningCSharp\Learning CSharp\obj\Debug\Learning CSharp.csproj.AssemblyReference.cache
+C:\Users\qjrou\Source\Repos\LearningCSharp\Learning CSharp\obj\Debug\Learning CSharp.csproj.CoreCompileInputs.cache
+C:\Users\qjrou\Source\Repos\LearningCSharp\Learning CSharp\obj\Debug\Learning CSharp.exe
+C:\Users\qjrou\Source\Repos\LearningCSharp\Learning CSharp\obj\Debug\Learning CSharp.pdb
